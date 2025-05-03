@@ -30,7 +30,6 @@ chmod +x supurgeci.sh
 Süpürme işlemi bitince sistemi yeniden başlatman tavsiye edilir:
 ```
 bash
-Kopyala
-Düzenle
+
 sudo shutdown -r now
 ```
